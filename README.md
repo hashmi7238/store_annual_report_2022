@@ -93,7 +93,7 @@ INSIGHTS:
 
 FINAL CONCLUSION:
 -----------------
-To improve sales Target womens customer of age 30 to 49 living in MAHARASHTRA, KARNATAKA, UTTAR PRADESH by Showing ads, offers, coupons discount and relative products available on amazon myntra and flipkart.
+To improve sales target womens customer of age 30 to 49 living in MAHARASHTRA, KARNATAKA, UTTAR PRADESH by Showing ads, offers, coupons discount and relative products available on amazon myntra and flipkart.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 THANK YOU
 -----------
