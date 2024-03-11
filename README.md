@@ -82,6 +82,25 @@ ans. 'Channel' in raw
 8.Highest selling Category?
 ans. 'Set' has highest sale
 
+STEP 4:
+-------
+Create a pivot chart for each pivot table from analyze pivot table menu 
+* Go to pivot chart
+* Select chart
+* Paste chart in report sheet
+
+ADD SLICER:
+-----------
+* Add slicer in report to connect all data.
+* Right click on slicer and "report connection" to connect slicer to all chart.
+
+DESIGN REPORT:
+--------------
+Customize ccolour and design of report as you want but remember thee points
+* Chart should be visible
+* colour combination should be familier
+* Try to use easy chart instead of complex one.
+
 INSIGHTS:
 ----------
 * Maximum sales month of the year is march.
