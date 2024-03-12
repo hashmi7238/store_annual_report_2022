@@ -15,6 +15,8 @@ STEPS:
 4.Create Pivot chart
 5.Connect Slicer
 6.Design Report
+7.Insights
+8. Final Conclusion
 
 STEP 1:
 -------
